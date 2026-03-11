@@ -1,0 +1,33 @@
+body{
+    background:#f4f6fb;
+    display:flex;
+    min-height: 100vh;
+      justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+ background: rgba(108,140,255,0.6);
+ padding:20px;
+width: 600px;
+ text-align:center;
+ border-radius: 10px;
+ box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
+ font-size:18px;
+ font-weight:500;
+}
+.heading{
+    font-size:40px;
+    color:#1f2d3d;
+}
+.input{
+    border-radius: 20px;
+    width: 250px;
+    height:30px;
+    padding:10px;
+    color: #1f2d3d;
+    
+}
+.meaning-container{
+    display:none
+}
